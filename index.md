@@ -1,4 +1,6 @@
-## switching.social
+## alternative etiche, facili da usare e con un occhio per la privacy
+
+Scegli il sito o l'app che vorresti rimpiazzare: 
 
 You can use the [editor on GitHub](https://github.com/visika/it.switching.social/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
