@@ -23,3 +23,27 @@ Puoi provare Mastodon iscrivendoti presso uno dei siti sotto, e puoi usare il tu
 **MASTODON TRUNK** - Clicca qui per [trovare persone da seguire su Mastodon per argomento](https://communitywiki.org/trunk/). 
 
 **p.s.** Se ti piace usare Mastodon e vuoi avviare la tua istanza personale come parte della rete, puoi farlo molto facilmente senza conoscenze tecniche presso masto.host. 
+
+### Friendica
+
+Friendica è un social network in stile Facebook con funzioni simili inclusi eventi e album fotografici. 
+
+Così come Mastodon, Friendica è fatto di tanti siti più piccoli collegati tra loro tramite la federazione. I siti minori che costituiscono la rete di Friendica sono chiamati "nodi". 
+
+Friendica è anche connesso a Mastodon, Diaspora, PixelFed, PeerTube e tanti altri social network alternativi, così puoi fare amicizia anche con le persone che sono su tutte quelle reti. 
+
+Se decidi di iscriverti, puoi farlo ai siti sotto. Potresti anche essere interessato a leggere i nostri consigli e trucchi per iniziare. 
+
+**DOVE ISCRIVERSI** - Nerdica, libranet.de, iSurf Social, HubUP e tanti altri. 
+
+**APP ANDROID** - Fedilab. 
+
+### Diaspora
+
+Un'alternativa etica a Facebook di lungo periodo, Diaspora è costituito di tanti siti più piccoli chiamati "pod". Diaspora è inoltre federato con Friendica. 
+
+Se vuoi iscriverti, leggi i nostri consigli e trucchi per iniziare. 
+
+**DOVE ISCRIVERSI** - Gibberfish Social, pod.disroot.org, DiasporaBR e tanti altri. 
+
+[torna alla pagina iniziale](index)
