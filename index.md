@@ -15,3 +15,7 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 [Alternative alla ricerca Google](ricerca-google)
 
 [Alternative a Google Play](google-play)
+
+[Alternative a Google Maps](google-maps)
+
+[Alternative a Google Drive e Google Docs](google-drive-docs)
