@@ -9,3 +9,7 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 [Alternative a YouTube](youtube)
 
 [Alternative a WhatsApp, Messenger e Skype](whatsapp-skype)
+
+[Alternative a Gmail](gmail)
+
+[Alternative alla ricerca Google](ricerca-google)
