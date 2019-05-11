@@ -3,3 +3,5 @@
 Scegli il sito o l'app che vorresti rimpiazzare: 
 
 [Alternative a Facebook e Twitter](facebook)
+
+[Alternative ad Instagram](instagram)
