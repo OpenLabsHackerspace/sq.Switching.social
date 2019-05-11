@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+<center>## Welcome to GitHub Pages</center>
 
 You can use the [editor on GitHub](https://github.com/visika/it.switching.social/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
