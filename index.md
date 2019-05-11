@@ -7,3 +7,5 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 [Alternative ad Instagram](instagram)
 
 [Alternative a YouTube](youtube)
+
+[Alternative a WhatsApp, Messenger e Skype](whatsapp-skype)
