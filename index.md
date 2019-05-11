@@ -1,6 +1,6 @@
 <center>
 
-## alternative etiche, facili da usare e con un occhio per la privacy
+## alternative TTT etiche, facili da usare e con un occhio per la privacy
 
 Scegli il sito o l'app che vorresti rimpiazzare: 
 
