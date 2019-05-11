@@ -1,0 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+h2 p {
+  text-align: center;
+}
