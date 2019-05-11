@@ -2,4 +2,4 @@
 
 Scegli il sito o l'app che vorresti rimpiazzare: 
 
-[Alternative a Facebook e Twitter](facebook.md)
+[Alternative a Facebook e Twitter](facebook)
