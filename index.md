@@ -13,3 +13,5 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 [Alternative a Gmail](gmail)
 
 [Alternative alla ricerca Google](ricerca-google)
+
+[Alternative a Google Play](google-play)
