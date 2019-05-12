@@ -50,22 +50,22 @@ presso [masto.host](https://masto.host/).
 
 Friendica è un social network in stile Facebook con funzioni simili inclusi eventi e album fotografici. 
 
-Così come Mastodon, Friendica è fatto di tanti siti più piccoli collegati tra loro tramite la federazione. I siti minori che costituiscono la rete di Friendica sono chiamati "nodi". 
+Così come Mastodon, Friendica è fatto di tanti siti più piccoli collegati tra loro tramite la [federazione](siti-federati). I siti minori che costituiscono la rete di Friendica sono chiamati "nodi". 
 
-Friendica è anche connesso a Mastodon, Diaspora, PixelFed, PeerTube e tanti altri social network alternativi, così puoi fare amicizia anche con le persone che sono su tutte quelle reti. 
+Friendica è anche connesso a Mastodon, Diaspora, [PixelFed](instagram), [PeerTube](youtube) e tanti altri social network alternativi, così puoi fare amicizia anche con le persone che sono su tutte quelle reti. 
 
 Se decidi di iscriverti, puoi farlo ai siti sotto. Potresti anche essere interessato a leggere i nostri consigli e trucchi per iniziare. 
 
-**DOVE ISCRIVERSI** - Nerdica, libranet.de, iSurf Social, HubUP e tanti altri. 
+**DOVE ISCRIVERSI** - [Nerdica](https://nerdica.net/), [libranet.de](https://libranet.de/), [iSurf Social](https://social.isurf.ca/), [HubUP](https://friendica.hubup.pro/) e tanti altri. 
 
-**APP ANDROID** - Fedilab. 
+**APP ANDROID** - [Fedilab](https://play.google.com/store/apps/details?id=fr.gouv.etalab.mastodon). 
 
 ### Diaspora
 
-Un'alternativa etica a Facebook di lungo periodo, Diaspora è costituito di tanti siti più piccoli chiamati "pod". Diaspora è inoltre federato con Friendica. 
+Un'alternativa etica a Facebook di lungo periodo, Diaspora è costituito di tanti siti più piccoli chiamati "pod". Diaspora è inoltre [federato](siti-federati) con Friendica. 
 
 Se vuoi iscriverti, leggi i nostri consigli e trucchi per iniziare. 
 
-**DOVE ISCRIVERSI** - Gibberfish Social, pod.disroot.org, DiasporaBR e tanti altri. 
+**DOVE ISCRIVERSI** - [Gibberfish Social](https://social.gibberfish.org/), [pod.disroot.org](https://pod.disroot.org/), [DiasporaBR](https://diasporabr.com.br/) e tanti altri. 
 
 [torna alla pagina iniziale](index)
