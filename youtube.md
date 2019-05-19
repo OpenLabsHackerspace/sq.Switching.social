@@ -1,6 +1,8 @@
 ## ALTERNATIVE ETICHE A YOUTUBE
 
+<center>
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://peertube.video/videos/embed/217eefeb-883d-45be-b7fc-a788ad8507d3" frameborder="0" allowfullscreen></iframe>
+</center>
 
 ### PeerTube
 
