@@ -19,3 +19,5 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 [Alternative a Google Maps](google-maps)
 
 [Alternative a Google Drive e Google Docs](google-drive-docs)
+
+[Alternative a Minecraft](minecraft)
