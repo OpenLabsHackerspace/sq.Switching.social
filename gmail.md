@@ -30,4 +30,13 @@ L'utenza base è gratuita, con piani a pagamento che hanno maggiori funzionalit�
 
 **SITO WEB** - [Tutanota](https://tutanota.com/)
 
+### Kolab Now
+
+Kolab Now è un fornitore di servizi email svizzero con molti componenti aggiuntivi 
+mirati alle persone nell'impresa, inclusi calendario, condivisione di file, attività ed 
+altro. C'è un periodo di prova gratuita, dopo di che paghi una commissione per continuare 
+ad usare il servizio. 
+
+**SITO WEB** - [Kolab Now](https://kolabnow.com/)
+
 [torna alla pagina iniziale](index)
