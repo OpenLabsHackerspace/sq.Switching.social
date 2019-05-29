@@ -4,8 +4,8 @@ Se stai usando un PC, probabilmente ha Microsoft Windows. Microsoft è passata s
 dure critiche per non rispettare la riservatezza dei propri utenti. 
 Solo per dare un esempio, di base [Windows registra qualunque cosa tu scriva e manda 
 ciò a Microsoft](https://www.techjunkie.com/disable-keylogger-windows-10/), e 
-continua a mandare i tuoi dati a Microsoft [anche quando gli chiedi di non farlo]
-(https://arstechnica.com/information-technology/2015/08/even-when-told-not-to-windows-10-just-cant-stop-talking-to-microsoft/). 
+continua a mandare i tuoi dati a Microsoft [anche quando gli chiedi di non 
+farlo](https://arstechnica.com/information-technology/2015/08/even-when-told-not-to-windows-10-just-cant-stop-talking-to-microsoft/). 
 
 La più famosa alternativa a Windows è la [linea di computer Mac](https://www.apple.com/mac/) 
 di Apple. Tradizionalmente Apple si è comportata bene per quanto riguarda la privacy, 
