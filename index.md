@@ -20,6 +20,8 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 
 [Alternative a Google Drive e Google Docs](google-drive-docs)
 
+[Alternative a Google Calendar](google-calendar)
+
 [Alternative a Windows](windows)
 
 [Alternative a Minecraft](minecraft)
