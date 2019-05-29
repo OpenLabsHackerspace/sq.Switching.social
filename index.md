@@ -25,3 +25,5 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 [Alternative a Windows](windows)
 
 [Alternative a Minecraft](minecraft)
+
+[Alternative ad Adobe Creative Cloud](adobe-cc)
