@@ -26,6 +26,8 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 
 [Alternative a Minecraft](minecraft)
 
+[Alternative a Patreon](patreon)
+
 [Alternative a Microsoft Office](office)
 
 [Alternative ad Adobe Creative Cloud](adobe-cc)
