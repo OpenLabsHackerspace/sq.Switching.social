@@ -22,6 +22,8 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 
 [Alternative a Google Calendar](google-calendar)
 
+[Alternative a Medium](medium)
+
 [Alternative a Windows](windows)
 
 [Alternative a Minecraft](minecraft)
