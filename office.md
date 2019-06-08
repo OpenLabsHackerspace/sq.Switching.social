@@ -1,4 +1,4 @@
-## ALTERNATIVE ETICHE A MICROSOFT OFFICE
+# Alternative etiche a Microsoft Office
 
 Microsoft Office ha problemi seri con la riservatezza, come spiega questo 
 [report ufficiale del governo olandese](https://www.theregister.co.uk/2018/11/16/microsoft_gdpr/): 
@@ -13,7 +13,7 @@ salvaguardia delle persone con cui hai a che fare (amici, clienti, colleghi). Ci
 migliori alternative che offrono le stesse funzionalità senza violare la riservatezza 
 delle persone. 
 
-### LibreOffice
+## LibreOffice
 
 L'alternativa gratuita ed [open source](https://switching.social/what-is-open-source-software/) 
 più popolare a Microsoft Office è la suite LibreOffice. 
@@ -32,7 +32,7 @@ file, e funziona in una maniera largamente simile.
 
 **APP ANDROID** - [Lettore LibreOffice](https://play.google.com/store/apps/details?id=org.documentfoundation.libreoffice)
 
-### Thunderbird
+## Thunderbird
 
 L'app per email gratuita ed open source più popolare per computer è Thunderbird, ed è una 
 buona alternativa a Microsoft Outlook. (Include anche [funzionalità RSS](https://switching.social/ethical-alternatives-to-google-news/) 
@@ -40,7 +40,7 @@ per leggere le notizie.)
 
 **SITO WEB** - [Thunderbird.net](https://www.thunderbird.net/)
 
-### OnlyOffice
+## OnlyOffice
 
 Indirizzato alle aziende, OnlyOffice è una suite open source di strumenti che include editor 
 di documenti, email, database dei clienti, gestione dei progetti, calendari, forum e altro ancora. 
