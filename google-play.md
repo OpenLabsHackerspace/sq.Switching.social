@@ -1,4 +1,4 @@
-## ALTERNATIVE ETICHE A GOOGLE PLAY
+# Alternative etiche a Google Play
 
 Se usi un telefono Android, probabilmente installi le applicazioni attraverso il Play Store di Google. 
 
@@ -8,7 +8,7 @@ Google stesso traccia cosa la gente installa, e Google Play è pieno di software
 
 Un'alternativa migliore è F-Droid. 
 
-### F-Droid
+## F-Droid
 
 F-Droid è un centro applicazioni [open source](https://switching.social/what-is-open-source-software/) alternativo. 
 Lo store non traccia gli utenti, e le app che elenca sono a loro volta tutte open source, 
