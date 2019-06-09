@@ -1,6 +1,6 @@
-## ALTERNATIVE ETICHE A DROPBOX, GOOGLE DRIVE E GOOGLE DOCS
+# Alternative etiche a Dropbox, Google Drive e Google Docs
 
-### Nextcloud
+## Nextcloud
 
 Nextcloud è un servizio facile da usare che ti permette di archiviare file, modificarli e 
 condividerli con altre persone. 
@@ -22,7 +22,7 @@ Una volta che hai impostato un account Nextcloud, puoi usare le app per Android 
 caricare file o gestire il tuo spazio di archiviazione. (Molte persone usano l'app per 
 caricare le foto scattate col telefono, per esempio.) 
 
-**SITI NEXTCLOUD** - [OwnDrive](https://owndrive.com/), 
+**DOVE ISCRIVERSI** - [OwnDrive](https://owndrive.com/), 
 [IndieHosters](https://indie.host/), 
 [Disroot Cloud](https://disroot.org/en/services/nextcloud), 
 [oCloud.de](https://ocloud.de/product/nextcloud.html), 
@@ -37,5 +37,19 @@ li gestiscono, ma girano comunque tutti sul software Nextcloud, quindi funzionan
 con l'app per telefono di Nextcloud. La maggior parte di loro offre utenze gratuite fino 
 ad un certo limite di spazio di archiviazione, poi chiedono una tassa se vuoi più spazio 
 rispetto a quanto offerto gratuitamente.)
+
+## CryptPad
+
+CryptPad è un'alternativa libera e amica della privacy a Google Docs. 
+Ti permette di modificare facilmente vari tipi di documenti online e in collaborazione, 
+ed è basata sul concetto "conoscenza zero" dove nessuno tranne te (e chiunque altro 
+a cui dai le chiavi di accesso) può accedere ai tuoi documenti, nemmeno i gestori del sito. 
+
+Il servizio è gratuito fino ad un certo limite di archiviazione, con utenze a pagamento 
+per spazio addizionale. Puoi persino usare il servizio gratuito senza registrarti se vuoi, 
+sebbene valga la pena registrarsi poiché ti permette di mantenere i documenti 
+permanentemente online. 
+
+**SITO WEB** - [CryptPad](https://cryptpad.fr/)
 
 [torna alla pagina iniziale](index)
