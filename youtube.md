@@ -1,12 +1,13 @@
-## ALTERNATIVE ETICHE A YOUTUBE
+# Alternative etiche a YouTube
 
 <center>
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://peertube.video/videos/embed/217eefeb-883d-45be-b7fc-a788ad8507d3" frameborder="0" allowfullscreen></iframe>
 </center>
 
-### PeerTube
+## PeerTube
 
-PeerTube è un'alternativa open source e federata a YouTube. È un social network orientato ai video
+PeerTube è un'alternativa [libera](https://switching.social/what-is-open-source-software/) e 
+[federata](https://switching.social/federated-sites/) a YouTube. È un social network orientato ai video
 che non ha annunci e non ti traccia. È ancora una novità, quindi non ci sono tantissimi contenuti da vedere, 
 ma è in crescita molto rapida. 
 
