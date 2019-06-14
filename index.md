@@ -71,3 +71,5 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 [Smartphone Fairtrade](smartphone-fairtrade)
 
 [Domande frequenti](faq)
+
+[Seguici su Mastodon](https://mastodon.at/@switchingsocial)
