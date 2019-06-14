@@ -38,9 +38,11 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 
 [Alternative a Windows](windows)
 
+[Alternative a Steam](steam)
+
 [Alternative a Minecraft](minecraft)
 
-[Alternative a Steam](steam)
+[Alternative a Change.org](change-org)
 
 [Alternative a Patreon](patreon)
 
