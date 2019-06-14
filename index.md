@@ -34,6 +34,8 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 
 [Alternative ad Amazon Books e Kindle](kindle)
 
+[Alternative a Chrome](chrome)
+
 [Alternative a Windows](windows)
 
 [Alternative a Minecraft](minecraft)
