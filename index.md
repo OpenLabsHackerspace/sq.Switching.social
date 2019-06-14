@@ -38,6 +38,8 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 
 [Alternative ad Adobe Creative Cloud](adobe-cc)
 
+[Alternative a Slack](slack)
+
 <hr/>
 
 [Guida per cambiare](guida)
@@ -47,3 +49,5 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 [Servizi emergenti](servizi-emergenti)
 
 [Smartphone Fairtrade](smartphone-fairtrade)
+
+[Domande frequenti](faq)
