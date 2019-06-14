@@ -58,6 +58,8 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 
 [Alternative a Slack](slack)
 
+[Alternative all'internet](internet)
+
 <hr/>
 
 [Guida per cambiare](guida)
