@@ -28,6 +28,8 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 
 [Alternative a Medium](medium)
 
+[Alternative a Doodle](doodle)
+
 [Alternative a Windows](windows)
 
 [Alternative a Minecraft](minecraft)
