@@ -1,10 +1,10 @@
-## ALTERNATIVE ETICHE A FACEBOOK E TWITTER
+# Alternative etiche a Facebook e Twitter
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IPSbNdBmWKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
-### Mastodon
+## Mastodon
 
 Mastodon è di gran lunga il social network etico più popolare con milioni di utenti. Puoi osservare il loro video ufficiale qui sopra, che spiega come funziona il sito. È abbastanza simile a Twitter, ma con un limite caratteri decisamente più lungo ed un'interfaccia più flessibile. 
 
@@ -46,7 +46,7 @@ Puoi anche [cercare siti Mastodon a cui iscriverti in base ad argomento e lingua
 parte della rete, puoi farlo molto facilmente senza conoscenze tecniche 
 presso [masto.host](https://masto.host/). 
 
-### Friendica
+## Friendica
 
 Friendica è un social network in stile Facebook con funzioni simili inclusi eventi e album fotografici. 
 
@@ -60,7 +60,7 @@ Se decidi di iscriverti, puoi farlo ai siti sotto. Potresti anche essere interes
 
 **APP ANDROID** - [Fedilab](https://play.google.com/store/apps/details?id=fr.gouv.etalab.mastodon). 
 
-### Diaspora
+## Diaspora
 
 Un'alternativa etica a Facebook di lungo periodo, Diaspora è costituito di tanti siti più piccoli chiamati "pod". Diaspora è inoltre [federato](siti-federati) con Friendica. 
 
