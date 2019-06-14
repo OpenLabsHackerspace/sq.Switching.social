@@ -1,4 +1,8 @@
-## alternative etiche, facili da usare e con un occhio per la privacy
+---
+title: it.switching.social | Alternative etiche a siti ed app popolari
+---
+
+# Alternative etiche, facili da usare e con un occhio per la privacy
 
 Scegli il sito o l'app che vorresti rimpiazzare: 
 
