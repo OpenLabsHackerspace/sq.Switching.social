@@ -46,6 +46,8 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 
 [Alternative a Google News](google-news)
 
+[Alternative a Google Analytics](google-analytics)
+
 [Alternative a Patreon](patreon)
 
 [Alternative a Microsoft Office](office)
