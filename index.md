@@ -41,3 +41,5 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 <hr/>
 
 [Guida per cambiare](guida)
+
+[Alternative etiche per utenti avanzati](utenti-avanzati)
