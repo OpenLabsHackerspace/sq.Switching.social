@@ -48,6 +48,8 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 
 [Alternative a Google Analytics](google-analytics)
 
+[Alternative a Google Forms](google-forms)
+
 [Alternative a Patreon](patreon)
 
 [Alternative a Microsoft Office](office)
