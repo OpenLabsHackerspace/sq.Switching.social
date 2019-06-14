@@ -44,6 +44,8 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 
 [Alternative a Change.org](change-org)
 
+[Alternative a Google News](google-news)
+
 [Alternative a Patreon](patreon)
 
 [Alternative a Microsoft Office](office)
