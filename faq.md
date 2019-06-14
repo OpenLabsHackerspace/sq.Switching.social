@@ -48,7 +48,7 @@ loro nelle sezioni [utenti avanzati](utenti-avanzati) e [servizi emergenti](serv
 La parola "etico" è usata in varie accezioni nella lingua moderna. Su questo sito è usata 
 per intendere servizi ed applicazioni che apportano significativamente meno danno 
 all'intimità di una persona, poiché questo sito ritiene la privacy dell'utente come 
-qualcosa di [moralmente buono](http://www.treccani.it/vocabolario/etica/)
+qualcosa di [moralmente buono](http://www.treccani.it/vocabolario/etica/). 
 
 Nessuna delle alternative elencate è perfetta, ma sono opzioni migliori. 
 
