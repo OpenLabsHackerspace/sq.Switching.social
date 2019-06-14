@@ -32,6 +32,8 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 
 [Alternative a Meetup](meetup)
 
+[Alternative ad Amazon Books e Kindle](kindle)
+
 [Alternative a Windows](windows)
 
 [Alternative a Minecraft](minecraft)
