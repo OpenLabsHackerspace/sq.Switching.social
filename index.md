@@ -45,3 +45,5 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 [Alternative etiche per utenti avanzati](utenti-avanzati)
 
 [Servizi emergenti](servizi-emergenti)
+
+[Smartphone Fairtrade](smartphone-fairtrade)
