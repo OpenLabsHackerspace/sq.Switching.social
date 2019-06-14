@@ -43,3 +43,5 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 [Guida per cambiare](guida)
 
 [Alternative etiche per utenti avanzati](utenti-avanzati)
+
+[Servizi emergenti](servizi-emergenti)
