@@ -40,6 +40,8 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 
 [Alternative a Minecraft](minecraft)
 
+[Alternative a Steam](steam)
+
 [Alternative a Patreon](patreon)
 
 [Alternative a Microsoft Office](office)
