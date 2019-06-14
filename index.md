@@ -30,6 +30,8 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 
 [Alternative a Doodle](doodle)
 
+[Alternative a Meetup](meetup)
+
 [Alternative a Windows](windows)
 
 [Alternative a Minecraft](minecraft)
