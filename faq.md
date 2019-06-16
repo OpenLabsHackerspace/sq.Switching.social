@@ -90,4 +90,10 @@ ed oggigiorno promuove un'app contenente tracker che invadono la privacy ed annu
 
 È elencato nella sezione "[Alternative a Slack](slack)". 
 
+**Perché Telegram non è elencato nelle alternative a WhatsApp?**
+
+Al giorno d'oggi Telegram sembre adottare protocolli di sicurezza che 
+[non superano gli standard comunemente accettati](https://security.stackexchange.com/questions/49782/is-telegram-secure). 
+
+
 [torna alla pagina iniziale](index)
