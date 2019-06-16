@@ -6,10 +6,10 @@
 
 ## PeerTube
 
-PeerTube è un'alternativa [libera](https://switching.social/what-is-open-source-software/) e 
-[federata](https://switching.social/federated-sites/) a YouTube. È un social network orientato ai video
-che non ha annunci e non ti traccia. È ancora una novità, quindi non ci sono tantissimi contenuti da vedere, 
-ma è in crescita molto rapida. 
+PeerTube è un'alternativa [libera](open-source) e 
+[federata](https://switching.social/federated-sites/) a YouTube. È un social network 
+orientato ai video che non ha annunci e non ti traccia. È ancora una novità, quindi non 
+ci sono tantissimi contenuti da vedere, ma è in crescita molto rapida. 
 
 A differenza di YouTube, PeerTube è fatto di tanti piccoli siti indipendenti che si parlano tra loro. 
 Non importa a quale sito ti iscriva, fanno tutti parte della stessa rete. 

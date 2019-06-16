@@ -39,10 +39,10 @@ produce fa guadagno dalla versione aziendale dell'app.
 Jami è un'alternativa gratuita e facile da usare a Skype, con audio e videochiamata e 
 messaggistica. Possiede app per Android, iPhone, Windows, Mac e Linux. 
 
-È [libera](https://switching.social/what-is-open-source-software/) e progettata per 
-rispettare la privacy dei propri utenti, con le chiamate che viaggiano direttamente da un 
-utente all'altro senza usare server intermedi. Dà a tutti i suoi membri un codice unico, 
-che si può condividere con gli altri, cosicché si possano aggiungere a vicenda sul servizio. 
+È [libera](open-source) e progettata per rispettare la privacy dei propri utenti, 
+con le chiamate che viaggiano direttamente da un utente all'altro senza usare server 
+intermedi. Dà a tutti i suoi membri un codice unico, che si può condividere con gli altri, 
+cosicché si possano aggiungere a vicenda sul servizio. 
 
 (Nel caso sia confuso, Ring ha cambiato il suo nome in Jami. Potresti vedere entrambi i 
 nomi mentre è in corso la transizione.)
@@ -61,9 +61,8 @@ nomi mentre è in corso la transizione.)
 
 ## Zom
 
-Zom è un'app di messaggistica [libera](https://switching.social/what-is-open-source-software/) 
-estremamente semplice da usare. Non hai bisogno di registrarti per usarla, devi solo 
-pensare ad un nome utente. 
+Zom è un'app di messaggistica [libera](open-source) estremamente semplice da usare. 
+Non hai bisogno di registrarti per usarla, devi solo pensare ad un nome utente. 
 
 È compatibile con lo standard popolare XMPP usato da molte altre app di messaggistica, 
 quindi se conosci qualcuno che usa una di queste altre app puoi scrivere loro con Zom. 
@@ -74,17 +73,18 @@ quindi se conosci qualcuno che usa una di queste altre app puoi scrivere loro co
 
 ## Quicksy
 
-Un'altra app di chat facile da usare, puoi registrarti con appena il tuo numero di telefono. 
+Un'altra app di chat facile da usare, puoi registrarti con appena il tuo numero di 
+telefono. 
 
-È basata sullo standard XMPP, quindi se conosci qualcuno con un account XMPP puoi comunicare 
-anche con loro. 
+È basata sullo standard XMPP, quindi se conosci qualcuno con un account XMPP puoi 
+comunicare anche con loro. 
 
 **APP ANDROID** - [Quicksy](https://play.google.com/store/apps/details?id=im.quicksy.client)
 
 ## XMPP / Jabber
 
 XMPP (anche conosciuto come Jabber) è uno standard di messaggistica via internet gratuito 
-e [libero](https://switching.social/what-is-open-source-software/) ampiamente usato. 
+e [libero](open-source) ampiamente usato. 
 È molto facile da usare: registra solo un utenza XMPP ed installa un'app XMPP. 
 
 Poiché è [federato](https://switching.social/federated-sites/), ci sono un sacco di siti 
@@ -106,8 +106,8 @@ Zom e Quicksy menzionate sopra. Fanno parte della rete XMPP anche loro.)
 
 ## Jitsi Meet
 
-Jitsi Meet è un'app di video chat gratuita e [libera](https://switching.social/what-is-open-source-software/) 
-fatta da volontari. È estremamente facile da usare: non hai bisogno di registrarti; tutto 
+Jitsi Meet è un'app di video chat gratuita e [libera](open-source) fatta da volontari. 
+È estremamente facile da usare: non hai bisogno di registrarti; tutto 
 quello che devi fare è inventare il nome della stanza per la chat ed inviare il link a 
 chiunque vuoi che si unisca (puoi anche impostare una parola d'ordine per la stanza se 
 lo desideri). Puoi usarla tramite il loro sito web o attraverso le app mobili. 

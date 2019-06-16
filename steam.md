@@ -55,8 +55,9 @@ I giochi del negozio vengono spesso venduti in cooperazione con altre piattaform
 
 ## Giochi liberi
 
-Sebbene siano relativamente rari, ci sono dei bei giochi disponibili come progetti [liberi](https://switching.social/what-is-open-source-software/). 
-Ciò significa che sono disponibili senza alcun tipo di restrizione DRM, e sono anche gratuiti. 
+Sebbene siano relativamente rari, ci sono dei bei giochi disponibili come progetti 
+[liberi](open-source). Ciò significa che sono disponibili senza alcun tipo di restrizione 
+DRM, e sono anche gratuiti. 
 
 **SITO WEB** - [Libre Game Wiki list](https://libregamewiki.org/List_of_games)
 

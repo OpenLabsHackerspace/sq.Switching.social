@@ -2,7 +2,8 @@
 
 ## Firefox
 
-Il browser web indipendente e [libero](https://switching.social/what-is-open-source-software/) più popolare, Firefox è non-commerciale, gratuito e mantenuto da volontari. 
+Il browser web indipendente e [libero](open-source) più popolare, Firefox è 
+non-commerciale, gratuito e mantenuto da volontari. 
 
 Ti raccomandiamo di installare Firefox dai link qui sotto, e poi installare le estensioni Privacy Badger e uBlock Origin coperte nella prossima sezione. 
 Questa combinazione ti proteggerà dalla maggior parte delle minacce alla privacy sul web. 
@@ -15,8 +16,9 @@ Questa combinazione ti proteggerà dalla maggior parte delle minacce alla privac
 
 ## Privacy Badger e uBlock Origin
 
-Questi non sono browser web di per sè, ma componenti aggiuntive [libere](https://switching.social/what-is-open-source-software/) complementari che puoi installare su ogni browser 
-principale per aiutarti a proteggere la tua privacy online. È raccomandabile che installi entrambi se puoi. 
+Questi non sono browser web di per sè, ma componenti aggiuntive [libere](open-source) 
+complementari che puoi installare su ogni browser principale per aiutarti a proteggere 
+la tua privacy online. È raccomandabile che installi entrambi se puoi. 
 
 Privacy Badger impara gradualmente quali siti stanno provando a tracciarti e li blocca, mentre uBlock Origin blocca particolari siti ed annunci basandosi su liste pre-impostate che 
 possiede. Se sei un utente avanzato, puoi addirittura aggiungere più liste da bloccare in uBlock Origin. 
@@ -32,8 +34,10 @@ possiede. Se sei un utente avanzato, puoi addirittura aggiungere più liste da b
 
 ## Better
 
-Better (chiamato anche Better Blocker) è un componente aggiuntivo [libero](https://switching.social/what-is-open-source-software/) per il browser Apple Safari, disponibile per 
-iPhone, iPad e Mac. Better aiuta a proteggere la privacy bloccando gli annunci e i traccianti quando stai navigando sul web con Safari. 
+Better (chiamato anche Better Blocker) è un componente aggiuntivo [libero](open-source) 
+per il browser Apple Safari, disponibile per iPhone, iPad e Mac. Better aiuta a 
+proteggere la privacy bloccando gli annunci e i traccianti quando stai navigando sul 
+web con Safari. 
 
 **SITO UFFICIALE** - [Better.fyi](https://better.fyi/)
 
@@ -43,12 +47,16 @@ iPhone, iPad e Mac. Better aiuta a proteggere la privacy bloccando gli annunci e
 
 ## Tor Browser
 
-Il browser libero Tor è una versione speciale modificata di Firefox. È un tantino più difficile da usare rispetto a Firefox normale, ma fa un lavoro molto più meticoloso nel proteggere 
-la tua riservatezza. 
+Il browser libero Tor è una versione speciale modificata di Firefox. 
+È un tantino più difficile da usare rispetto a Firefox normale, 
+ma fa un lavoro molto più meticoloso nel proteggere la tua riservatezza. 
 
-Tor Browser va all'estremo per ridurre il quantitativo di informazione identificante che spedisci ai siti web quando li visiti, usando la rete Tor di computer dei volontari per 
-camuffare le tracce del tuo stesso computer. Questo rende ben più complicato per le aziende come Google e Facebook spiarti, sebbene renda anche l'esperienza di navigazione più 
-lenta siccome non ti stai collegando ai siti direttamente. 
+Tor Browser va all'estremo per ridurre il quantitativo di informazione identificante 
+che spedisci ai siti web quando li visiti, usando la rete Tor di computer dei volontari per 
+camuffare le tracce del tuo stesso computer. 
+Questo rende ben più complicato per le aziende come Google e Facebook spiarti, 
+sebbene renda anche l'esperienza di navigazione più lenta siccome non ti stai 
+collegando ai siti direttamente. 
 
 **APP WINDOWS / MAC / LINUX** - [Tor Browser](https://www.torproject.org/)
 

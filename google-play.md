@@ -10,7 +10,7 @@ Un'alternativa migliore è F-Droid.
 
 ## F-Droid
 
-F-Droid è un centro applicazioni [open source](https://switching.social/what-is-open-source-software/) alternativo. 
+F-Droid è un centro applicazioni [open source](open-source) alternativo. 
 Lo store non traccia gli utenti, e le app che elenca sono a loro volta tutte open source, 
 quindi sono molto meno predisposte ad invadere la tua privacy. 
 
