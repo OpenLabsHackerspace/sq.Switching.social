@@ -26,19 +26,35 @@ network alternativi come Friendica (vedi sotto), l'alternativa ad Instagram
 
 Puoi provare Mastodon iscrivendoti presso uno dei siti sotto, e puoi usare il tuo account su una delle app mobili di Mastodon. (Abbiamo anche creato dei suggerimenti e trucchi per i nuovi utenti.)
 
-**DOVE ISCRIVERSI** - [mastodon.host](https://mastodon.host/), 
-[mastodon.xyz](https://mastodon.xyz/), 
-[mstdn.io](https://mstdn.io/), [social.chinwag.org](https://social.chinwag.org/) 
+**DOVE ISCRIVERSI** - [Mastodon.uno](https://mastodon.uno/), 
+[mas.to](https://mas.to/), 
+[mstdn.io](https://mstdn.io/), 
+[social.tchncs.de](https://social.tchncs.de/), 
+[mastodon.host](https://mastodon.host/), 
+[social.chinwag.org](https://social.chinwag.org/), 
+[mastodon.xyz](https://mastodon.xyz/) 
 e [tanti altri](http://joinmastodon.org/). 
 Puoi anche [cercare siti Mastodon a cui iscriverti in base ad argomento e linguaggio](https://instances.social/list#lang=&allowed=&prohibited=&users=). 
 
-**APP ANDROID** - [Fedilab](https://play.google.com/store/apps/details?id=fr.gouv.etalab.mastodon), 
+**APP ANDROID** - 
+[Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky), 
 [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter), 
-[Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) e altre. 
+[Fedilab](https://play.google.com/store/apps/details?id=app.fedilab.android) 
 
 **APP iPHONE** - [Toot!](https://itunes.apple.com/app/toot/id1229021451), 
 [Mast](https://itunes.apple.com/app/mast/id1437429129), 
-[Amaroq](https://itunes.apple.com/app/amarok-for-mastodon/id1214116200) e altre. 
+[Amaroq](https://itunes.apple.com/app/amarok-for-mastodon/id1214116200)
+
+**APP WINDOWS** - [Hyperspace](https://hyperspace.marquiskurt.net/), 
+[Sengi](https://nicolasconstant.github.io/sengi/)
+
+**APP MAC** - [Mastonaut](https://mastonaut.app/), 
+[Hyperspace](https://hyperspace.marquiskurt.net/), 
+[Sengi](https://nicolasconstant.github.io/sengi/)
+
+**APP LINUX** - [Hyperspace](https://hyperspace.marquiskurt.net/), 
+[Whalebird](https://whalebird.org/), 
+[Sengi](https://nicolasconstant.github.io/sengi/)
 
 **MASTODON TRUNK** - Clicca qui per [trovare persone da seguire su Mastodon per argomento](https://communitywiki.org/trunk/). 
 
@@ -56,9 +72,13 @@ Friendica è anche connesso a Mastodon, Diaspora, [PixelFed](instagram), [PeerTu
 
 Se decidi di iscriverti, puoi farlo ai siti sotto. Potresti anche essere interessato a leggere i nostri consigli e trucchi per iniziare. 
 
-**DOVE ISCRIVERSI** - [Nerdica](https://nerdica.net/), [libranet.de](https://libranet.de/), [iSurf Social](https://social.isurf.ca/), [HubUP](https://friendica.hubup.pro/) e tanti altri. 
+**DOVE ISCRIVERSI** - [Nerdica](https://nerdica.net/), 
+[libranet.de](https://libranet.de/), 
+[iSurf Social](https://social.isurf.ca/), 
+[HubUP](https://friendica.hubup.pro/) e tanti altri. 
 
-**APP ANDROID** - [Fedilab](https://play.google.com/store/apps/details?id=fr.gouv.etalab.mastodon). 
+**APP ANDROID** - 
+[Fedilab](https://play.google.com/store/apps/details?id=app.fedilab.android)
 
 ## Diaspora
 
@@ -66,6 +86,8 @@ Un'alternativa etica a Facebook di lungo periodo, Diaspora è costituito di tant
 
 Se vuoi iscriverti, leggi i nostri consigli e trucchi per iniziare. 
 
-**DOVE ISCRIVERSI** - [Gibberfish Social](https://social.gibberfish.org/), [pod.disroot.org](https://pod.disroot.org/), [DiasporaBR](https://diasporabr.com.br/) e tanti altri. 
+**DOVE ISCRIVERSI** - [Gibberfish Social](https://social.gibberfish.org/), 
+[pod.disroot.org](https://pod.disroot.org/), 
+[DiasporaBR](https://diasporabr.com.br/) e tanti altri. 
 
 [torna alla pagina iniziale](index)
