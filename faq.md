@@ -95,5 +95,16 @@ ed oggigiorno promuove un'app contenente tracker che invadono la privacy ed annu
 Al giorno d'oggi Telegram sembre adottare protocolli di sicurezza che 
 [non superano gli standard comunemente accettati](https://security.stackexchange.com/questions/49782/is-telegram-secure). 
 
+**Perché dovrei preoccuparmi tanto della mia privacy?**
+
+Il possesso delle tue informazioni riservate da parte di soggetti non autorizzati può 
+metterti in situazioni difficili. Facciamo un esempio: un'app che raccoglie dati sulla 
+tua salute per aiutarti a stare meglio potrebbe avere una politica riguardo la privacy 
+che lascia a desiderare. Non è raro che tali informazioni possano essere vendute al 
+miglior offerente. Se tale offerente fosse un'azienda privata, cominciano a presentarsi 
+degli scenari interessanti: si potrebbe studiare il presentarsi di patologie 
+professionali e licenziare i dipendenti che si prevede saranno di peso per la dirigenza, 
+oppure le donne che sembrano manifestare segni di gravidanza, o che chiedono consultazioni 
+mediche al riguardo, potrebbero subire lo stesso trattamento. 
 
 [torna alla pagina iniziale](index)
