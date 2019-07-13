@@ -10,6 +10,18 @@ Questi possono essere gratuiti fino ad un certo limite di archiviazione, e costa
 Poiché non hanno inserzionisti ed invece dipendono sui contributi mensili per i propri introiti, 
 hanno molti più incentivi a tenere le email dei propri clienti private. 
 
+## Tutanota
+
+Tutanota è un servizio di email criptata e calendario basato in Germania, senza annunci pubblicitari e con enfasi sulla privacy. 
+L'account base è gratuito, con piani a pagamento che hanno più funzioni e spazio di archiviazione. 
+Hanno anche le proprie app per Android ed iPhone.
+
+**SITO WEB** - [Tutanota](https://tutanota.com/)
+
+**APP ANDROID** - [Tutanota](https://play.google.com/store/apps/details?id=de.tutao.tutanota)
+
+**APP iPHONE** - [Tutanota](https://itunes.apple.com/app/tutanota/id922429609)
+
 ## ProtonMail
 
 ProtonMail is a Swiss-based email service with no advertising and maximum possible privacy for its users, 
@@ -25,18 +37,6 @@ L'utenza base è gratuita, con piani a pagamento che hanno maggiori funzionalit�
 **APP ANDROID** - [ProtonMail](https://play.google.com/store/apps/details?id=ch.protonmail.android)
 
 **APP iPHONE** - [ProtonMail](https://itunes.apple.com/app/protonmail-encrypted-email/id979659905)
-
-## Tutanota
-
-Tutanota è un servizio email basato in Germania senza annunci pubblicitari e con enfasi sulla privacy. 
-L'account base è gratuito, con piani a pagamento che hanno più funzioni e spazio di archiviazione. 
-Hanno anche le proprie app per Android ed iPhone.
-
-**SITO WEB** - [Tutanota](https://tutanota.com/)
-
-**APP ANDROID** - [Tutanota](https://play.google.com/store/apps/details?id=de.tutao.tutanota)
-
-**APP iPHONE** - [Tutanota](https://itunes.apple.com/app/tutanota/id922429609)
 
 ## Posteo
 
