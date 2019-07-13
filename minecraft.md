@@ -1,12 +1,12 @@
-## ALTERNATIVE ETICHE A MINECRAFT
+# Alternative etiche a Minecraft
 
 <center>
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://peertube.mastodon.host/videos/embed/d84239ab-55c0-4c19-bf5e-e1dd6a7b4b17" frameborder="0" allowfullscreen></iframe>
 </center>
 
-### Minetest
+## Minetest
 
-Minetest è un gioco gratuito [open source](https://switching.social/what-is-open-source-software/) 
+Minetest è un gioco gratuito [open source](open-source) 
 in stile Minecraft con mondi enormi, una varietà di modalità di gioco differenti, online ed 
 offline, server multiplayer, tante mod create dagli utenti e altro ancora. 
 

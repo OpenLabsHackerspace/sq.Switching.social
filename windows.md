@@ -1,4 +1,4 @@
-## ALTERNATIVE ETICHE A MICROSOFT WINDOWS
+# Alternative etiche a Microsoft Windows
 
 Se stai usando un PC, probabilmente ha Microsoft Windows. Microsoft è passata sotto 
 dure critiche per non rispettare la riservatezza dei propri utenti. 
@@ -21,7 +21,7 @@ ma produce macchine di alto livello e quindi i loro prezzo sono comunque alti.
 Fortunatamente, ci sono alternative rispettose della privacy facili da usare che sono 
 gratuite e possono essere installate sul PC che già possiedi. 
 
-### Ubuntu
+## Ubuntu
 
 L'alternativa più supportata e facile da usare si chiama "Ubuntu". È basata sul sistema 
 operativo [open source](https://switching.social/what-is-open-source-software/) Linux, che 
@@ -35,7 +35,7 @@ configurazione fianco a fianco è chiamata sistema "dual boot".
 
 Puoi anche comprare portatili con Ubuntu già installato. 
 
-### Installare Ubuntu sul tuo computer
+## Installare Ubuntu sul tuo computer
 
 Per installare Ubuntu, ti servirà una chiavetta USB o (se il tuo computer ha un lettore 
 DVD) un disco Ubuntu DVD. Puoi ordinare una [chiavetta Ubuntu](https://www.osdisc.com/products/ubuntu/ubuntu-1804-lts-desktop-16gb-usb-flash-drive-64bit.html) 
@@ -52,7 +52,7 @@ Il processo di installazione è molto semplice e amichevole: puoi seguire [una g
 all'installazione di Ubuntu](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop) 
 sul sito ufficiale. 
 
-### Comprare un computer con Ubuntu già installato
+## Comprare un computer con Ubuntu già installato
 
 Ci sono molti negozi online che vendono PC con Ubuntu precaricato. Se lo compri, 
 lo accendi e funziona. 
@@ -80,7 +80,7 @@ Spediscono in tutto il mondo.
 (Puoi trovare una lista parecchio più lunga di negozi 
 su [LinuxPreloaded.com](https://linuxpreloaded.com/))
 
-### Ripristinare vecchi computer allo stato funzionale con Lubuntu
+## Ripristinare vecchi computer allo stato funzionale con Lubuntu
 
 Se hai un portatile che sembra far girare Windows molto lentamente, non hai bisogno di 
 comprare un nuovo computer! Il problema potrebbe essere Windows stesso, e c'è una buona 

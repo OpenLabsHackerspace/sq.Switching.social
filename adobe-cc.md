@@ -1,4 +1,4 @@
-## ALTERNATIVE ETICHE AD ADOBE CREATIVE CLOUD
+# Alternative etiche ad Adobe Creative Cloud
 
 La suite di app creative Creative Cloud di Adobe è un cosiddetto "software as a service", 
 il che significa che devi pagare l'affitto per esso ogni mese o perdi l'accesso al tuo 
@@ -11,7 +11,7 @@ non sono in corrispondenza esatta con le componenti di Creative Cloud, ma puoi d
 un'occhiata alla lista sotto e vedere se quello che è disponibile soddisfa le tue 
 necessità. 
 
-### GIMP
+## GIMP
 
 Una delle app di grafica gratuite ed aperte di più lunga data e meglio supportate, 
 GIMP (GNU Image Manipulation Program) offre grafica raster in stile Photoshop e manipolazione 
@@ -21,7 +21,7 @@ GIMP è disponibile per Windows, Mac e Linux dal sito ufficiale.
 
 **SITO WEB** - [gimp.org](https://www.gimp.org/)
 
-### Inkscape
+## Inkscape
 
 Inkscape è un editor di grafica vettoriale professionale in stile Illustrator per creare 
 cose come illustrazioni, grafici e loghi. 
@@ -30,7 +30,7 @@ cose come illustrazioni, grafici e loghi.
 
 **SITO WEB** - [inkscape.org](https://inkscape.org/)
 
-### Krita
+## Krita
 
 Krita è un editor professionale di pittura in grafica raster ed animazione indirizzato 
 principalmente agli artisti. 
@@ -39,7 +39,7 @@ principalmente agli artisti.
 
 **SITO WEB** - [krita.org](https://krita.org/)
 
-### darktable
+## darktable
 
 Pensato per i fotografi, darktable è un editor di foto raw per lavori in post-produzione 
 non distruttivi. 
@@ -48,13 +48,13 @@ non distruttivi.
 
 **SITO WEB** - [darktable.org](http://www.darktable.org/)
 
-### RawTherapee
+## RawTherapee
 
 Un'app di processazione di immagini raw per Windows, Mac e Linux disponibile dal sito ufficiale. 
 
 **SITO WEB** - [RawTherapee.com](http://www.rawtherapee.com/)
 
-### Blender
+## Blender
 
 Originariamente solo per fare grafica 3D, Blender è una suite di strumenti professionali per 
 lavorare ad animazioni 3D e 2D, effetti visuali, composizione e video editing. 
@@ -70,7 +70,7 @@ Netflix [Next Gen (2018)](https://www.youtube.com/watch?v=uf3ALGKgpGU).
 
 **SITO WEB** - [blender.org](https://www.blender.org/)
 
-### Kdenlive
+## Kdenlive
 
 Kdenlive è un'app di video editing non lineare gratuita ed aperta disponibile per 
 Windows e Linux. (C'è anche una versione Mac, ma è attualmente un po' complicata da 
@@ -78,21 +78,21 @@ installare.)
 
 **SITO WEB** - [kdenlive.org](https://kdenlive.org/)
 
-### Shotcut
+## Shotcut
 
 Shotcut è un video editor non lineare gratuito ed aperto per Windows, Mac e Linux, disponibile 
 dal sito ufficiale. 
 
 **SITO WEB** - [shotcut.org](https://www.shotcut.org/)
 
-### Flowblade
+## Flowblade
 
 Flowblade è un editor video non lineare gratuito ed aperto per Linux, disponibile dal 
 sito ufficiale. 
 
 **SITO WEB** - [Flowblade](https://jliljebl.github.io/flowblade/index.html)
 
-### Scribus
+## Scribus
 
 Un'alternativa ad InDesign, Scribus è un'app di progettazione ed impaginazione 
 gratuita ed aperta. 

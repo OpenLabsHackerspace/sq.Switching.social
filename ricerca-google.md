@@ -1,6 +1,6 @@
-## ALTERNATIVE ETICHE ALLA RICERCA GOOGLE
+# Alternative etiche alla ricerca Google
 
-### DuckDuckGo
+## DuckDuckGo
 
 Il motore di ricerca rispettoso della privacy più popolare e facile da usare, 
 DuckDuckGo è finanziato dalle inserzioni ma non traccia i suoi utenti. 

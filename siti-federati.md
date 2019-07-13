@@ -1,4 +1,4 @@
-## SITI FEDERATI
+# Siti federati
 
 La maggior parte dei social media sono "federati", o decentralizzati. Questo significa 
 che invece di trovarsi su un unico grande sito (come sono Facebook e Twitter), i siti 
