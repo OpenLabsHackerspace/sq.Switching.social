@@ -1,77 +1,79 @@
 ---
-title: Alternative etiche a siti ed app popolari
+title: Alternativa etike dhe që respektojnë privatësinë tënde
 ---
 
-# Alternative etiche, facili da usare e con un occhio per la privacy
+# Alternativa etike, të lehta në përdorim dhe që respektojnë privatësinë tënde
 
-Scegli il sito o l'app che vorresti rimpiazzare: 
+Zgjidh website apo aplikacionin që dëshiron të zëvëndësosh: 
 
-[Alternative a Facebook e Twitter](facebook)
+[Alternativa për Facebook dhe Twitter](facebook)
 
-[Alternative ad Instagram](instagram)
+[Alternativa për Instagram](instagram)
 
-[Alternative a YouTube](youtube)
+[Alternativa për YouTube](youtube)
 
-[Alternative a WhatsApp, Messenger e Skype](whatsapp-skype)
+[Alternativa për WhatsApp, Messenger dhe Skype](whatsapp-skype)
 
-[Alternative a Gmail](gmail)
+[Alternativa për Gmail](gmail)
 
-[Alternative alla ricerca Google](ricerca-google)
+[Alternativa për motorrin e kërkimit Google](google-kerko)
 
-[Alternative a Google Play](google-play)
+[Alternativa për Google Play](google-play)
 
-[Alternative a Google Maps](google-maps)
+[Alternativa për hartat Google Maps](google-maps)
 
-[Alternative a Google Drive e Google Docs](google-drive-docs)
+[Alternativa për Google Drive dhe Google Docs](google-drive-docs)
 
-[Alternative a Google Calendar](google-calendar)
+[Alternativa për Google Calendar](google-calendar)
 
-[Alternative a Medium](medium)
+[Alternativa për Medium](medium)
 
-[Alternative a Pocket](pocket)
+[Alternativa për Pocket](pocket)
 
-[Alternative a Doodle](doodle)
+[Alternativa për Doodle](doodle)
 
-[Alternative a Meetup](meetup)
+[Alternativa për Meetup](meetup)
 
-[Alternative ad Amazon Books e Kindle](kindle)
+[Alternativa për Amazon Books dhe Kidle](kindle)
 
-[Alternative a Chrome](chrome)
+[Alternativa për Chrome](chrome)
 
-[Alternative a Windows](windows)
+[Alternativa për Windows](windows)
 
-[Alternative a Steam](steam)
+[Alternativa për Steam](steam)
 
-[Alternative a Minecraft](minecraft)
+[Alternativa për Minecraft](minecraft)
 
-[Alternative a Change.org](change-org)
+[Alternativa për Change.org](change-org)
 
-[Alternative a Google News](google-news)
+[Alternativa për Google News](google-news)
 
-[Alternative a Google Analytics](google-analytics)
+[Alternativa për Google Analytics](google-analytics)
 
-[Alternative a Google Forms](google-forms)
+[Alternativa për Google Forms](google-forms)
 
-[Alternative a Patreon](patreon)
+[Alternativa për Patreon](patreon)
 
-[Alternative a Microsoft Office](office)
+[Alternativa për Microsoft Office](office)
 
-[Alternative ad Adobe Creative Cloud](adobe-cc)
+[Alternativa për Adobe Creative Cloud](adobe-cc)
 
-[Alternative a Slack](slack)
+[Alternativa për Slack](slack)
 
-[Alternative all'internet](internet)
+[Alternativa për internet](internet)
+
+[Alternativa 'të gjitha në një'](gjithcka)
 
 <hr/>
 
-[Guida per cambiare](guida)
+[Guidë se si të bësh hapin e parë për të ndryshuar](guida)
 
-[Alternative etiche per utenti avanzati](utenti-avanzati)
+[Alternativa etike për persona me dije të avancuar](perdorues-te-avancuar)
 
-[Servizi emergenti](servizi-emergenti)
+[Në zhvillim e sipër](ne-zhvillim)
 
-[Smartphone Fairtrade](smartphone-fairtrade)
+[Telefona inteligjentë fairtrade](smartphone-fairtrade)
 
-[Domande frequenti](faq)
+[Pyetje të shpeshta](faq)
 
-[Seguici su Mastodon](https://mastodon.at/@switchingsocial)
+[Na ndiq në Mastodon](https://mastodon.at/@switchingsocial)
