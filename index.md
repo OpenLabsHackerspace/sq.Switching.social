@@ -1,5 +1,5 @@
 ---
-title: Alternativa etike dhe që respektojnë privatësinë tënde
+title: Alternativa etike dhe që respektojnë privatësinë 
 ---
 
 # Alternativa etike, të lehta në përdorim dhe që respektojnë privatësinë tënde
