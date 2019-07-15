@@ -68,4 +68,4 @@ Nëse vendosni të regjistroheni, mund të regjistroheni në faqet e mëposhtme.
 **Aplikacionet ANDROID** - 
 [Fedilab](https://play.google.com/store/apps/details?id=app.fedilab.android)
 
-[Kthehu tek faqja kryesore](index)
+[Kthehu tek website kryesor](index)
